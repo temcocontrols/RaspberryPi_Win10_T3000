@@ -8,6 +8,8 @@ wg0.conf is the config file of wireguard server
 
 
 ClientConfig.conf is the wireguard config file. 
+add tunnel ClientConfig.conf file and press activate.
+now ping the IP of PI in commond prompt
 
 have to be replaced with wg0.conf at the /etc/wireguard/
 
